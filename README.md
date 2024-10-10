@@ -21,10 +21,10 @@ Plataforma de motor de búsqueda basada en la API de Bing
 Última versión: 5.2.0
 
 ## Requisitos
-Apache 2+ (mod_rewrite)
-PHP 7+ (MySQLnd, OpenSSL, cURL, mbstring)
-MySQL 5+
-Clave API de búsqueda de Bing ( ver precios )
+- Apache 2+ (mod_rewrite)
+- PHP 7+ (MySQLnd, OpenSSL, cURL, mbstring)
+- MySQL 5+
+- Clave API de búsqueda de Bing ( ver precios )
 
 ## Licencia
 [MIT Copyright (c) 2024 Andry Noilien Guzmán Cardoza](https://github.com/andrygc/agario-deluxe/blob/main/LICENSE)
